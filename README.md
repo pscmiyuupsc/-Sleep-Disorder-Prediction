@@ -7,3 +7,5 @@ Puedes presionar el boton y te llevara directamente al Google Colab
 
 O tambien puedes copiar el link en el buscador 
 https://colab.research.google.com/drive/1UzGNETUw-EFEOSf2xGgIP9sxoq-0_gxU?usp=sharing
+
+En Colab puedes precionar Ctrl + F9 para ejecutar todas las celdas
