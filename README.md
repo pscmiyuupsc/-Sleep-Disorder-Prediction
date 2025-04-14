@@ -9,3 +9,5 @@ O tambien puedes copiar el link en el buscador
 https://colab.research.google.com/drive/1UzGNETUw-EFEOSf2xGgIP9sxoq-0_gxU?usp=sharing
 
 En Colab puedes presionar Ctrl + F9 para ejecutar todas las celdas
+
+Para replicarlo, se puede entrar al Colab, dar clic en archivo y guardar una copia en Drive 
